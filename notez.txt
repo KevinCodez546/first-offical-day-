@@ -1,0 +1,35 @@
+	TAGS
+
+-Element names are surrounded by angeled brackets (< body >)
+-Tag elements normally come on pairs (<xxx>) (< followed by / to initate "end",,,>
+-select tags close themselves
+-Head (tag) is used to connect java script file, set title
+-There are 6 heading tags, mainly (1,2)
+-h1 for main headings, h2 for sub headings
+
+	INLINE VS BLOCK ELEMENTS
+
+-Block elements start on a new line and take the full width availble to page (david-----------------------)
+-example of block level elements(<p> (tag))				     (david-----------------------)
+-Inline elements do NOT start on a new line and only take the width necessary(ex, <button>(tag))
+-inline elemnets ex(321, 321 321)
+-Block level elements (<div>, <h1>-<h6>, <p>
+-inline elemnets (<span>, <a>, <button>xxx</button> <b> 
+-anchor tag to link website a href
+-target=_blank to open in new tab
+-to link website you NEED "https://"
+
+	PRACTICE 
+-<section>, acts as a border,
+-<Nav>, For navigation 
+-<img src="link"/>
+-<ul>(UNORDERED LIST)
+-<OL>(ORDERED LIST)
+-<A href="link:>ABOUT</a>
+-<DIV> acts as glue, puts elements together in groupings, WRAP H1-6, p, and buttons with this
+-<figure> used to style an image
+-<main> used for MAIN content of a page.
+-<section> goes under main
+-<FOOTER> doesnt go with 
+-<Input> is one for one line needed information, text area is used for MULTIPLE LINE answers
+-<a> = anchor used for links
